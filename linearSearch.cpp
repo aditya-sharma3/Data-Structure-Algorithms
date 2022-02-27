@@ -32,6 +32,4 @@ int main()
         cout<<"The element is not present..."<<endl;
     else    
         cout<<"The element is present at "<<index<<endl;
-    
-
 }
